@@ -14,7 +14,7 @@ image:
 </head>
 
 <figure>
-  <img src="{{ site.url }}/images/author_images/Alejandro_perito_moreno_glaciar"/>
+  <img src="{{ site.url }}/images/author_images/Alejandro_perito_moreno_glaciar.jpg"/>
   <figcaption>Alejandro at Perito Moreno Glacier in Calafate, Argentina (2018)</figcaption>
 </figure>
 
